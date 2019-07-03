@@ -8,7 +8,7 @@
 - 搭建zookeeper(3.4.14)，修改两个项目的配置文件。
 - 补全`deepexi-product-center`项目，添加执行接口功能。
 - 启动项目，测试接口，修改bug。
-- 进行docker部署。
+- 进行docker部署
 
 # dubbo-demo
 
@@ -40,7 +40,7 @@ dubbo开发demo
 
 修改基本配置信息， 开始docker部署。
 
-![1562142543950](C:\Users\xch\AppData\Roaming\Typora\typora-user-images\1562142543950.png)
+![1562142543950](img/1562142543950.png)
 
 e.g.
 
